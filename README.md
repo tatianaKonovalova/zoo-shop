@@ -1,6 +1,8 @@
 # zoo-shop
 An online store where you can buy a pet. Technologies used: vanilla JS, HTML and CSS.
 
+## Please find [demo](https://zoo-shop-project.netlify.app/) of this project.
+
 ## Implemented features:
 #### 1. General
 - Architecture MVC
